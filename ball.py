@@ -31,24 +31,7 @@ class Ball(Turtle):
 
 
 
-   # def hittop_of_wall(self):
-    #    new_x = self.xcor() + 10
-     #   #new_x = self.xcor() - 10
-      #  new_y = self.ycor() - 10
-       # self.goto(new_x, new_y)
-
-    #def hitbottom_of_wall(self):
-     #   new_x = self.xcor() - 10
-      #  new_y = self.ycor() + 10
-       # self.goto(new_x, new_y)
-
-#my solution
-    #def move(self):
-     #   y = 0
-      #  for x in range(1, 370):
-       #     y = y+0.78
-        #    self.goto(x, y)
-         #   screen.update()
+ 
 
 
 
