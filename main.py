@@ -50,21 +50,6 @@ while game_is_on:
         ball.reset_position()
         ball.move()
 
-
-
-
-#my solution
-#def up():
- #   paddle.hideturtle()
-  #  paddle.setheading(90)
-   # paddle.forward(20)
-    #paddle.showturtle()
-    #paddle.setheading(0)
-#def down():
- #   paddle.hideturtle()
-  #  paddle.setheading(270)
-   # paddle.forward(20)
-    #paddle.showturtle()
     #paddle.setheading(0)
 
 screen.exitonclick()
